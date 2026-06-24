@@ -1,1 +1,1 @@
-# SMART_CITY_hackathon_project
+# SMART_CITY_HACKATHON
